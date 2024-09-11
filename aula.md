@@ -6,7 +6,7 @@
  sequência de passos logicos e finita para a resolução de um problema
 
  ## peças de uma linguagem
- -comentarios
+ X-comentarios
  -declaaração de variaveis (const, let)
  -operadores (atribuição, concatenação, matematicos, logicos)
  -tipos de dados (string, number, boolean)
@@ -18,3 +18,9 @@
  coletar dados
  procurar os dados (manipular, alterar ...)
  apresentar dados
+
+## tipos de dados
+
+string (textos): pode ser escrito com ("" ou '' ou ´´) aspas dupla, aspas simples e crase
+number (numerico): 1, 1.5, inteiro ou futuante (int/flout)
+booleam (booleano): verdadeiro ou falso (true/false) 

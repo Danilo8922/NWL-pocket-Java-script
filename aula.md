@@ -19,8 +19,16 @@
  procurar os dados (manipular, alterar ...)
  apresentar dados
 
+ ## Escopos e variaveis
+ variaveis globais e locais
+ constantes
+
 ## tipos de dados
 
 string (textos): pode ser escrito com ("" ou '' ou ´´) aspas dupla, aspas simples e crase
 number (numerico): 1, 1.5, inteiro ou futuante (int/flout)
 booleam (booleano): verdadeiro ou falso (true/false) 
+
+## operadores
+
+atribuiçao de valor : "="

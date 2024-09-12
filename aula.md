@@ -52,3 +52,11 @@ X-acesso as propriedades dos objetos
 X-cria functions, passar argumento
 X-executar functions
 X-arrow function / named function
+
+## estrutura de reptição
+
+X-while: executa um bloco de comando até a condição fo verdadeira 
+
+## condicionais
+
+X-switch

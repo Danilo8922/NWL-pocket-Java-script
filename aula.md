@@ -60,3 +60,8 @@ X-while: executa um bloco de comando até a condição fo verdadeira
 ## condicionais
 
 X-switch
+
+## modulos em node js
+
+-inportações de modulos (requere, Common.JS)
+-biblioteca inquirer para criar prompts interativos

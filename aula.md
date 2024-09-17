@@ -33,6 +33,7 @@ X-booleam (booleano): verdadeiro ou falso (true/false)
 
 X-atribuiçao de valor: "="
 X-operador de concatenação: "+"
+X-comparação: igual "==", diferente "!=", maior que ">", menor que "<", e maior igual ou menor igual ">=" e "<="
 
 
 ## estruturando dados
@@ -60,8 +61,13 @@ X-while: executa um bloco de comando até a condição fo verdadeira
 ## condicionais
 
 X-switch
+X-if/else
 
 ## modulos em node js
 
 -inportações de modulos (requere, Common.JS)
 -biblioteca inquirer para criar prompts interativos
+
+## programação assincrona e promessas
+
+uso de funções assincrons (async/await)

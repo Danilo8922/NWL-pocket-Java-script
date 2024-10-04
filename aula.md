@@ -41,6 +41,7 @@ X-comparação: igual "==", diferente "!=", maior que ">", menor que "<", e maio
 ### Arrays
 
 X-são listas que contem qualquer tipo de dados
+X-metodos de array: push, find, forEach 
 
 ### objetos
 

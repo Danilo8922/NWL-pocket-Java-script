@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "inquirer": "^10.2.2"
+  }, 
+  "scripts": {
+    "start": "node index_3.js"
   }
 }
+

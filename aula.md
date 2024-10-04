@@ -2,7 +2,7 @@
  -Maneira de dar instruções ao computador
  -como um lego você irá utilizar peças para criar algoritimos, ou seja para resolver problemas
 
- ## algoritimos ##
+ ## algoritimos 
  -sequência de passos logicos e finita para a resolução de um problema
 
  ## peças de uma linguagem

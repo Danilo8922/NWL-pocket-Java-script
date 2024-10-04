@@ -34,6 +34,7 @@ X-booleam (booleano): verdadeiro ou falso (true/false)
 X-atribuiçao de valor: "="
 X-operador de concatenação: "+"
 X-comparação: igual "==", diferente "!=", maior que ">", menor que "<", e maior igual ou menor igual ">=" e "<="
+X-spread operator: ...
 
 
 ## estruturando dados
@@ -41,7 +42,7 @@ X-comparação: igual "==", diferente "!=", maior que ">", menor que "<", e maio
 ### Arrays
 
 X-são listas que contem qualquer tipo de dados
-X-metodos de array: push, find, forEach 
+X-metodos de array: push, [find, forEach, filter] : HOF (higher Order function)
 
 ### objetos
 

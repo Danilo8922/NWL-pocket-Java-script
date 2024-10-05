@@ -7,7 +7,7 @@
 
  ## peças de uma linguagem
  X-comentarios
- X-declaaração de variaveis (const, let)
+ X-declaaração de variaveis (const, let, var)
  -operadores (atribuição, concatenação, matematicos, logicos)
  X-tipos de dados (string, number, boolean)
  -estrutura de dados (function, object, array)
@@ -42,7 +42,7 @@ X-spread operator: ...
 ### Arrays
 
 X-são listas que contem qualquer tipo de dados
-X-metodos de array: push, [find, forEach, filter] : HOF (higher Order function)
+X-metodos de array: push, [find, forEach, filter map ] : HOF (higher Order function)
 
 ### objetos
 

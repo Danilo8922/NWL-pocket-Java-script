@@ -69,6 +69,13 @@ X-if/else
 
 -inportações de modulos (requere, Common.JS)
 -biblioteca inquirer para criar prompts interativos
+-FS (file system)
+
+## JSON
+
+-javascript object notation
+- JSON.parse() transforma de JSON para JS
+- JSON.stringfly() transforma de JS para JSON 
 
 ## programação assincrona e promessas
 
